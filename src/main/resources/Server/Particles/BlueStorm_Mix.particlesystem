@@ -1,0 +1,27 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "Magic_Sparks_Heavy",
+      "FixedRotation": true
+    },
+    {
+      "SpawnerId": "Magic_Sparks_Fast",
+      "FixedRotation": true
+    },
+    {
+      "SpawnerId": "Weather_BlueFog_Far",
+      "FixedRotation": true
+    },
+    {
+      "SpawnerId": "Weather_BlueFog_Close",
+      "FixedRotation": true
+    },
+    {
+      "SpawnerId": "Weather_BlueLightning_Streaks",
+      "FixedRotation": true,
+      "PositionOffset": { "X": 0.0, "Y": 35.0, "Z": 0.0 }
+    }
+  ]
+}
+
+

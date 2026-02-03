@@ -1,0 +1,5641 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 1,
+  "anchorY": 4,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -7,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Decorative"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick_Smooth_Half"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick_Smooth_Half"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Decorative"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Wall"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Smooth_Half"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth_Half"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Wall"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 9
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Smooth_Half"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 9
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 9
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 32,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Rubble_Slate_Medium",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 11
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 992
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 11
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 11
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 32,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 992
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 11
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Wall"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 32,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 11
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Stairs"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Rubble_Slate",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Shale_Brick_Wall"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 992
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 32,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Rubble_Slate",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 4,
+      "name": "*Rock_Shale_Brick_Wall_State_Definitions_Corner",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 992
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -6,
+      "name": "Rubble_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 32,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 5,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 992
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Slate_Cobble_Roof_Shallow"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 10
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -6,
+      "name": "Rubble_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -6,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -5,
+      "name": "Rubble_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -5,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "filler": 63,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Slate_Stalactite_Large",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Slate_Stalactite_Large",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rubble_Slate",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "filler": 31,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 5,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "filler": 1023
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 6,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "filler": 31
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Wall"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -6,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -5,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "filler": 32,
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -4,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rubble_Slate_Medium",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Smooth_Half",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Slate_Cobble_Roof_Shallow",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 5,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left",
+      "filler": 992
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 6,
+      "name": "*Rock_Slate_Cobble_Roof_Shallow_State_Definitions_Corner_Left"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 9
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -4,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -4,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Slate_Stalactite_Large",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Slate_Stalactite_Large",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 6,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 6,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Slate_Cobble",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 9
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -10,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -9,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -9,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 9
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -7,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -7,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -7,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -6,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -6,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -6,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -5,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -5,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -5,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -5,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -5,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -5,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -3,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Roof"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 4,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 4,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 5,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 6,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Wall",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 6,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 6,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 7,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 7,
+      "name": "Rock_Shale_Brick_Roof",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 7,
+      "name": "Rock_Shale_Cobble_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 7,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 7,
+      "name": "Rock_Shale_Brick_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Ornate"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": 8,
+      "name": "Furniture_Human_Ruins_Brazier",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 9,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 9,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Ornate"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Pillar_Base"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Pillar_Middle"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Roof_Steep"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "filler": 1024
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 10,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -10,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -9,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -9,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Decorative"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Beam",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": -9,
+      "name": "Rock_Shale_Brick_Half",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Pillar_Middle",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 9
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "z": -8,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -6,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -5,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Ornate",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Pillar_Middle",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Pillar_Middle",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Pillar_Middle",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Slate_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 7,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 8,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 8,
+      "name": "Rock_Shale_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Ornate"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Pillar_Base"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Pillar_Middle"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "z": 8,
+      "name": "Rock_Shale_Brick_Roof_Steep",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 9,
+      "name": "Rock_Shale_Brick"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Beam"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 9,
+      "name": "Rock_Shale_Brick_Half"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 10,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -10,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -9,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -8,
+      "name": "Rock_Slate"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -8,
+      "name": "Rock_Slate"
+    }
+  ]
+}

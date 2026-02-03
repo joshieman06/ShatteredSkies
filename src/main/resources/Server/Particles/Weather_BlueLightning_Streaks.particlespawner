@@ -1,0 +1,121 @@
+{
+  "RenderMode": "BlendAdd",
+  "EmitOffset": {
+    "X": { "Min": -260, "Max": 260 },
+    "Y": { "Min": -110, "Max": 110 },
+    "Z": { "Min": -260, "Max": 260 }
+  },
+  "ParticleRotationInfluence": "BillboardY",
+  "LinearFiltering": true,
+  "LightInfluence": 0,
+  "ParticleLifeSpan": {
+    "Min": 0.25,
+    "Max": 0.3333333333333333
+  },
+  "ParticleRotateWithSpawner": false,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "WaveDelay": {
+    "Min": 0.03,
+    "Max": 0.18
+  },
+  "MaxConcurrentParticles": 10,
+  "SpawnRate": {
+    "Min": 22,
+    "Max": 65
+  },
+  "TotalParticles": {
+    "Min": -1,
+    "Max": -1
+  },
+  "InitialVelocity": {
+    "Yaw": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Pitch": {
+      "Min": 0,
+      "Max": 180
+    },
+    "Speed": {
+      "Min": 1.5,
+      "Max": 1.7999999999999998
+    }
+  },
+  "Attractors": [
+    {
+      "RadialImpulse": 0,
+      "DampingMultiplier": {
+        "X": 0.5314410000000002,
+        "Y": 0.5314410000000002,
+        "Z": 0.5314410000000002
+      }
+    }
+  ],
+  "Particle": {
+    "Texture": "Particles/Textures/Shapes/LightningVoid.png",
+    "FrameSize": { "Width": 64, "Height": 124 },
+    "ScaleRatioConstraint": "None",
+    "UVOption": "RandomFlipU",
+    "Animation": {
+      "0": {
+        "Opacity": 0,
+        "Color": "#3aa7ff"
+      },
+      "10": {
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 3
+        },
+        "Scale": {
+          "X": {
+            "Min": 0.35,
+            "Max": 0.85
+          },
+          "Y": {
+            "Min": 3.5,
+            "Max": 9.5
+          }
+        },
+        "Rotation": {
+          "X": {
+            "Min": -1,
+            "Max": -1
+          },
+          "Y": {
+            "Min": -1,
+            "Max": -1
+          },
+          "Z": {
+            "Min": -180,
+            "Max": 180
+          }
+        },
+        "Opacity": 0,
+        "Color": "#3aa7ff"
+      },
+      "21": {
+        "Opacity": 0.76,
+        "Color": "#3aa7ff"
+      },
+      "86": {
+        "FrameIndex": {
+          "Min": 4,
+          "Max": 5
+        },
+        "Opacity": 0.6,
+        "Color": "#3aa7ff"
+      },
+      "100": {
+        "Opacity": 0,
+        "Color": "#3aa7ff"
+      }
+    },
+    "InitialAnimationFrame": {
+      "Opacity": 1,
+      "Color": "#3aa7ff"
+    }
+  }
+}
+
+

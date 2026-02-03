@@ -1,0 +1,92 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "Opacity": "Semitransparent",
+    "Looping": true,
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/tesla.png"
+      }
+    ],
+    "HitboxType": "Turret_Tesla",
+    "CustomModel": "Resources/tesla.blockymodel",
+    "CustomModelAnimation": "Resources/tesla.blockyanim",
+    "Material": "Solid",
+    "TickProcedure": {
+      "Type": "TeslaShock",
+      "Radius": 64,
+      "ChanceMin": 1,
+      "Chance": 20,
+      "Damage": 5,
+      "MaxTargets": 3,
+      "BeamParticleSystemId": "TeslaShock_Beam",
+      "BeamBaseLength": 20.0,
+      "ParticleSystemId": "TeslaShock_Lightning",
+      "ShootParticleSystemId": "TeslaShock_Shoot_Yellow",
+      "IntervalTicks": 120,
+      "ShootSoundEventId": "SFX_Gem_Break"
+    },
+    "RequiresAlphaBlending": false
+  },
+  "Interactions": {
+    "Secondary": {
+      "Interactions": [
+        {
+          "Type": "PlaceBlock",
+          "BlockTypeToPlace": "Turret_Tesla",
+          "RemoveItemInHand": true
+        }
+      ]
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -22
+    ]
+  },
+  "Model": "Resources/tesla.blockymodel",
+  "Texture": "Resources/tesla.png",
+  "Animation": "Resources/tesla.blockyanim",
+  "UsePlayerAnimations": true,
+  "SoundEventId": "SFX_Crystal_Build",
+  "Icon": "Icons/ItemsGenerated/Turret_Tesla.png",
+  "Recipe": {
+    "TimeSeconds": 5,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Cobalt",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Void_Essence",
+        "Quantity": 30
+      },
+      {
+        "ItemId": "Rock_Crystal_Yellow_Block",
+        "Quantity": 15
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Arcanebench",
+        "Type": "Crafting",
+        "Categories": [
+          "Arcane_Misc"
+        ]
+      }
+    ],
+    "RequiredMemoriesLevel": 5
+  },
+  "ItemLevel": 0,
+  "TranslationProperties": {
+    "Name": "shatteredskies.items.Turret_Tesla.name"
+  }
+}

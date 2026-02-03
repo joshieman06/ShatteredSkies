@@ -1,0 +1,14 @@
+{
+  "LifeSpan": 0.35,
+  "CullDistance": 140.0,
+  "BoundingRadius": 140.0,
+  "IsImportant": true,
+  "Spawners": [
+    {
+      "SpawnerId": "TeslaShock_Shoot_Yellow",
+      "FixedRotation": false
+    }
+  ]
+}
+
+

@@ -1,0 +1,85 @@
+{
+  "Stars": "Sky/Stars.png",
+  "Moons": [
+    { "Day": 0, "Texture": "Sky/MoonCycle/Moon_Full.png" },
+    { "Day": 1, "Texture": "Sky/MoonCycle/Moon_Gibbous.png" },
+    { "Day": 2, "Texture": "Sky/MoonCycle/Moon_Half.png" },
+    { "Day": 3, "Texture": "Sky/MoonCycle/Moon_Crescent.png" },
+    { "Day": 4, "Texture": "Sky/MoonCycle/Moon_New.png" }
+  ],
+  "Clouds": [
+    {
+      "Texture": "Sky/Clouds/Marshmallow_Highlights.png",
+      "Colors": [
+        { "Hour": 0, "Color": "rgba(#05060a, 0.92)" }
+      ],
+      "Speeds": [
+        { "Hour": 0, "Value": 0.25 }
+      ]
+    },
+    {
+      "Texture": "Sky/Clouds/Marshmallow_Base.png",
+      "Colors": [
+        { "Hour": 0, "Color": "rgba(#0a0c12, 0.90)" }
+      ],
+      "Speeds": [
+        { "Hour": 0, "Value": 0.18 }
+      ]
+    },
+    {
+      "Texture": "Sky/Clouds/Twirled.png",
+      "Colors": [
+        { "Hour": 0, "Color": "rgba(#0b0e14, 0.88)" }
+      ],
+      "Speeds": [
+        { "Hour": 0, "Value": 0.12 }
+      ]
+    },
+    {
+      "Texture": "Sky/Clouds/Scars.png",
+      "Colors": [
+        { "Hour": 0, "Color": "rgba(#0e111b, 0.86)" }
+      ],
+      "Speeds": [
+        { "Hour": 0, "Value": 0.10 }
+      ]
+    }
+  ],
+  "SkyTopColors": [
+    { "Hour": 0, "Color": "#171a22" }
+  ],
+  "SkyBottomColors": [
+    { "Hour": 0, "Color": "#0a0b10" }
+  ],
+  "SkySunsetColors": [
+    { "Hour": 0, "Color": "#101218" }
+  ],
+  "FogColors": [
+    { "Hour": 0, "Color": "#171922" }
+  ],
+  "FogDensities": [
+    { "Hour": 0, "Value": 0.80 }
+  ],
+  "FogHeightFalloffs": [
+    { "Hour": 0, "Value": 1.25 }
+  ],
+  "FogDistance": [
+    -480,
+    240
+  ],
+  "SunScales": [
+    { "Hour": 0, "Value": 0.55 }
+  ],
+  "MoonScales": [
+    { "Hour": 0, "Value": 1.25 }
+  ],
+  "Particle": {
+    "SystemId": "BlueStorm_Mix",
+    "OvergroundOnly": false,
+    "Color": "#2a2f3a",
+    "Scale": 1.25,
+    "PositionOffsetMultiplier": 1.0
+  }
+}
+
+

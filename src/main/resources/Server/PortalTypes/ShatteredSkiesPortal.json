@@ -1,0 +1,20 @@
+{
+  "InstanceId": "Shattered_Skies",
+  "Description": {
+    "DisplayName": "shatteredskies.portals.shatteredskies",
+    "FlavorText": "shatteredskies.portals.shatteredskies.description",
+    "ThemeColor": "#ffe135",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "shatteredskies.portals.shatteredskies.tip1"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 160,
+    "ScanHeight": 60,
+    "MinRadius": 4000,
+    "MaxRadius": 4000,
+    "ChunkDartThrows": 35
+  },
+  "VoidInvasionEnabled": true
+}

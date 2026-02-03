@@ -1,0 +1,62 @@
+{
+  "Shape": "Sphere",
+  "EmitOffset": {
+    "X": { "Min": -65.0, "Max": 65.0 },
+    "Y": { "Min": 10.0, "Max": 70.0 },
+    "Z": { "Min": -65.0, "Max": 65.0 }
+  },
+  "TotalParticles": { "Min": 1, "Max": 4 },
+  "LifeSpan": 9999.0,
+  "MaxConcurrentParticles": 220,
+  "ParticleLifeSpan": { "Min": 0.45, "Max": 1.20 },
+  "SpawnRate": { "Min": 14.0, "Max": 28.0 },
+  "SpawnBurst": false,
+  "WaveDelay": { "Min": 0.20, "Max": 0.75 },
+  "InitialVelocity": {
+    "Yaw": { "Min": 0.0, "Max": 360.0 },
+    "Pitch": { "Min": -40.0, "Max": 15.0 },
+    "Speed": { "Min": 2.5, "Max": 8.5 }
+  },
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "VelocityStretchMultiplier": 0.3,
+  "RenderMode": "BlendAdd",
+  "LightInfluence": 0.0,
+  "Particle": {
+    "Texture": "Particles/Textures/Smoke/Sparks_Cloud.png",
+    "FrameSize": { "Width": 1, "Height": 1 },
+    "SoftParticles": "Enable",
+    "SoftParticlesFadeFactor": 1.0,
+    "Animation": {
+      "0": {
+        "FrameIndex": { "Min": 0, "Max": 0 },
+        "Scale": {
+          "X": { "Min": 0.12, "Max": 0.30 },
+          "Y": { "Min": 0.12, "Max": 0.30 }
+        },
+        "Rotation": {
+          "X": { "Min": 0.0, "Max": 0.0 },
+          "Y": { "Min": 0.0, "Max": 0.0 },
+          "Z": { "Min": 0.0, "Max": 0.0 }
+        },
+        "Color": "#42a8ff",
+        "Opacity": 0.95
+      },
+      "100": {
+        "FrameIndex": { "Min": 0, "Max": 0 },
+        "Scale": {
+          "X": { "Min": 0.10, "Max": 0.26 },
+          "Y": { "Min": 0.10, "Max": 0.26 }
+        },
+        "Rotation": {
+          "X": { "Min": 0.0, "Max": 0.0 },
+          "Y": { "Min": 0.0, "Max": 0.0 },
+          "Z": { "Min": 0.0, "Max": 0.0 }
+        },
+        "Color": "#42a8ff",
+        "Opacity": 0.0
+      }
+    }
+  }
+}
+
+

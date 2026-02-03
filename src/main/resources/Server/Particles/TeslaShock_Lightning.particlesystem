@@ -1,0 +1,14 @@
+{
+  "LifeSpan": 2.0,
+  "CullDistance": 320.0,
+  "BoundingRadius": 320.0,
+  "IsImportant": true,
+  "Spawners": [
+    {
+      "SpawnerId": "Weather_BlueLightning_Streaks",
+      "FixedRotation": true
+    }
+  ]
+}
+
+

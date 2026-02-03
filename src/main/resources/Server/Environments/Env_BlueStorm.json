@@ -1,0 +1,32 @@
+{
+  "WaterTint": "#0a2440",
+  "SpawnDensity": 0.6,
+  "WeatherForecasts": {
+    "0": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "1": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "2": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "3": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "4": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "5": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "6": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "7": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "8": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "9": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "10": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "11": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "12": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "13": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "14": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "15": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "16": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "17": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "18": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "19": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "20": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "21": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "22": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }],
+    "23": [{ "WeatherId": "BlueStorm_Lightning", "Weight": 100 }]
+  }
+}
+
+
