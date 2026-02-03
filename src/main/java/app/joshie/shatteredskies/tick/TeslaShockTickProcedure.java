@@ -11,6 +11,7 @@ import com.hypixel.hytale.protocol.SoundCategory;
 import com.hypixel.hytale.server.core.asset.type.blocktick.BlockTickStrategy;
 import com.hypixel.hytale.server.core.asset.type.blocktick.config.TickProcedure;
 import com.hypixel.hytale.server.core.asset.type.soundevent.config.SoundEvent;
+import com.hypixel.hytale.server.core.entity.entities.Player;
 import com.hypixel.hytale.server.core.modules.physics.util.PhysicsMath;
 import com.hypixel.hytale.server.core.modules.entity.EntityModule;
 import com.hypixel.hytale.server.core.modules.entity.damage.Damage;
@@ -83,6 +84,8 @@ public final class TeslaShockTickProcedure extends TickProcedure {
             return BlockTickStrategy.CONTINUE;
         }
 
+
+
         Vector3d origin = new Vector3d(worldX + 0.5, worldY + 0.75, worldZ + 0.5);
         ObjectList<Ref<EntityStore>> refs = SpatialResource.getThreadLocalReferenceList();
         spatial.getSpatialStructure().collect(origin, this.radius, refs);
@@ -103,6 +106,9 @@ public final class TeslaShockTickProcedure extends TickProcedure {
         for (int i = 0; i < refs.size() && shocked < this.maxTargets; i++) {
             Ref<EntityStore> ref = refs.get(i);
             if (!ref.isValid()) continue;
+            if (store.getComponent(ref, Player.getComponentType()) != null) {
+                return BlockTickStrategy.CONTINUE;
+            }
 
             EntityStatMap stats = store.getComponent(ref, EntityStatMap.getComponentType());
             if (stats == null) continue;
